@@ -4,7 +4,7 @@
 This repository contains my undergraduate dissertation, a literature review, two scientific posters and two clinical case reports, all written during my Bachelor of Dental Surgery degree. The purpose of this repository is to showcase my scientific knowledge, medical expertise and writing skills. 
 
 ## How to Use
-Click on each of the folders above to view my work.
+Click on each folder above to view my work. Inside each folder, click on the files to see the scientific content.
 
 ## Included in the Repository
 

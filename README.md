@@ -7,7 +7,7 @@ Click on each of the folders above to view my work.
 ## Included in the Repository
 
 **Undergraduate Dissertation (2022-2023)**
-Medical History Complexity of Patients Attending Student Restorative Dental Education Clinics Compared With Patients Attending the Emergency Dental Clinic: A Service Review
+- Medical History Complexity of Patients Attending Student Restorative Dental Education Clinics Compared With Patients Attending the Emergency Dental Clinic: A Service Review
 
 **Clinical Case Reports (2022-2023)**
 - Case reports illustrating the history, examinations, diagnoses and treatment of two different patients during my final year as an undergraduate..

@@ -8,12 +8,13 @@ Click on each folder above to view my work. Inside each folder, click on the fil
 
 ## Included in the Repository
 
+**Final Year Clinical Case Reports (2023)**
+- Each case report illustrates the history, examination, diagnose and treatment of a patient I treated during my final year as an undergraduate.
+- The discussion outlines the treatment rationale and explores important factors related to the case, such as the implication of asthma and gastric reflux on tooth erosion.
+- The reflection critically examines which parts of the case could have been improved and why.
+
 **Undergraduate Dissertation (2022-2023)**
 - Medical History Complexity of Patients Attending Student Restorative Dental Education Clinics Compared With Patients Attending the Emergency Dental Clinic: A Service Review
-
-**Clinical Case Reports (2022-2023)**
-- Each case report illustrates the history, examination, diagnose and treatment of a patient I treated during my final year as an undergraduate.
-- The reports include a discussion section detailing the rationale behind treatment and a refelction section. 
 
 **Literature Review (2020)**
 - Discuss the Mechanism by which Specialised Pro-resolving Lipid Mediators Lipoxins, Resolvins and Protectins can be used as treatments for Periodontal disease.

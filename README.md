@@ -19,7 +19,7 @@ Click on each of the folders above to view my work.
 - Discuss the Mechanism by which Specialised Pro-resolving Lipid Mediators Lipoxins, Resolvins and Protectins can be used as treatments for Periodontal disease.
 
 **Scientific Posters (2019-2020):**
-1. Why do Dentists need to know about the Aging Process in Relation to the Provision of Oral Health Care?
-2. Explain the Molecular Mechanisms that result in the Formation of a Fatty Liver due to the ingestion of alcohol
+- Why do Dentists need to know about the Aging Process in Relation to the Provision of Oral Health Care?
+- Explain the Molecular Mechanisms that result in the Formation of a Fatty Liver due to the ingestion of alcohol
 
 

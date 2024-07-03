@@ -21,6 +21,6 @@ Click on each folder above to view my work. Inside each folder, click on the fil
 
 **Scientific Posters (2019-2020):**
 - Why do Dentists need to know about the Aging Process in Relation to the Provision of Oral Health Care?
-- Explain the Molecular Mechanisms that result in the Formation of a Fatty Liver due to the ingestion of alcohol
+- Explain the Molecular Mechanisms that result in the Formation of a Fatty Liver due to the Ingestion of Alcohol.
 
 

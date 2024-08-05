@@ -9,7 +9,7 @@ Click on the folders on the left to view my work. Inside each folder, click on t
 ## Included in the Repository
 
 **Final Year Clinical Case Reports (2023)**
-- Each case report illustrates the history, examination, diagnose and treatment of a patient I treated during my final year as an undergraduate.
+- Each case report illustrates the history, examination, diagnoses and treatment of a patient I treated during my final year as an undergraduate.
 - The discussion outlines the treatment rationale and explores important factors related to the case, such as the implication of asthma and gastric reflux on tooth erosion.
 - The reflection critically examines which parts of the case could have been improved and why.
 
